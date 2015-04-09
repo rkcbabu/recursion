@@ -34,6 +34,10 @@ public class TestClass {
         entities.add(new File("File3", 3));
 
         entities.print();
+//        for ( Entity e : entities){
+            
+//        }
+        
 //        ent = new ArrayList();
 //        ent.add("asdf");
 //        ent.add("asdf");
