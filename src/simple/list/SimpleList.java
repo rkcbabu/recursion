@@ -36,12 +36,5 @@ public class SimpleList {
              first.print();
         }
     }
-    
-    
-    
-//    @Override
-//    public String toString(){
-//        return 
-//    }
    
 }
